@@ -1,0 +1,40 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-01--13-Masterpieces-of-G__11123
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+- GITenberg
+tableOfContents: The Life of Goethe. By Calvin Thomas -- Greeting and Departure. --
+  The Heathrose. -- Mahomet's Song. -- Prometheus. -- The Wanderer's Night-Song. --
+  The Sea-Voyage. -- To the Moon. -- The Fisherman. -- The Wanderer's Night-Song.
+  -- The Erl-King. -- The Godlike. -- Mignon. -- Proximity of the Beloved One. --
+  The Shepherd's Lament. -- Nature and Art -- Comfort in Tears. -- Epilog to Schiller's
+  "Song of the Bell." -- Ergo Bibamus. -- The Walking Bell. -- Found. -- Hatem. --
+  Reunion. -- Procemion. -- The One and The All. -- Lines on Seeing Schiller's Skull.
+  -- A Legacy. -- Introduction to Hermann and Dorothea. By Arthur H. Palmer -- Harmann
+  and Dorothea. -- Introduction to Iphigenia in Tauris. By Arthur H. Palmer -- Iphigenia
+  in Tauris. -- The Faust Legend from Marlowe to Goethe. By Kuno Francke -- Introduction
+  to Faust. by Calvin Thomas -- Faust (Part I & II).
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 01\r\
+  \nMasterpieces of German Literature Translated into English."
+url: http://www.gutenberg.org/ebooks/11123
